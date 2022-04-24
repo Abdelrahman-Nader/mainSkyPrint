@@ -1,0 +1,4 @@
+:host ::ng-deep .accordion-item {
+	background-color: aqua;
+  color: black;
+}
